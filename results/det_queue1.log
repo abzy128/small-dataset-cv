@@ -1,0 +1,13 @@
+>>> S1_yolo11n S1_studio2desk yolo11n.pt 80 640
+S1_yolo11n: all mAP50=0.665 mAP50-95=0.367 | single 0.680 | multi 0.735 | 323s
+>>> S2_yolo11n S2_mixed yolo11n.pt 80 640
+S2_yolo11n: all mAP50=0.951 mAP50-95=0.731 | single 0.907 | multi 1.000 | 561s
+>>> S1_yolo11s S1_studio2desk yolo11s.pt 80 640
+S1_yolo11s: all mAP50=0.404 mAP50-95=0.276 | single 0.146 | multi 0.635 | 796s
+>>> S2_yolo11s S2_mixed yolo11s.pt 80 640
+S2_yolo11s: all mAP50=1.000 mAP50-95=0.670 | single 1.000 | multi 1.000 | 4148s
+>>> S1_yolov8n S1_studio2desk yolov8n.pt 80 640
+S1_yolov8n: all mAP50=0.327 mAP50-95=0.264 | single 0.095 | multi 0.547 | 226s
+>>> S1_yolo11n_cp S1_studio2desk yolo11n.pt 40 640 synth/images
+S1_yolo11n_cp: all mAP50=0.859 mAP50-95=0.700 | single 0.688 | multi 1.000 | 535s
+>>> S1_yolo11n_scratch S1_studio2desk yolo11n.yaml 200 640

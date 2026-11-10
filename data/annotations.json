@@ -1,0 +1,1166 @@
+{
+ "IMG_0435": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     875.6,
+     584.7,
+     2001.7,
+     1947.8
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0436": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1060.4,
+     613.7,
+     2025.5,
+     2029.0
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0437": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1212.0,
+     571.6,
+     1867.7,
+     2011.8
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0438": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1030.1,
+     541.1,
+     1999.8,
+     1993.1
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0439": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     966.1,
+     560.1,
+     2030.1,
+     1908.1
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0440": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1096.5,
+     524.5,
+     2035.4,
+     1930.6
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0441": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1170.4,
+     510.7,
+     1795.7,
+     1637.4
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0442": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1109.1,
+     521.2,
+     1986.6,
+     1900.9
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0443": {
+  "W": 3024,
+  "H": 3024,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     985.8,
+     877.0,
+     2147.0,
+     1678.3
+    ],
+    "source": "manual"
+   }
+  ]
+ },
+ "IMG_0444": {
+  "W": 4284,
+  "H": 4284,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1543.6,
+     1130.8,
+     2715.8,
+     2846.2
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0445": {
+  "W": 4284,
+  "H": 4284,
+  "label": "penguin",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1563.7,
+     1113.8,
+     2806.0,
+     2878.8
+    ],
+    "source": "manual"
+   }
+  ]
+ },
+ "IMG_0446": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     1026.0,
+     960.0,
+     2004.0,
+     1932.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0447": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     1014.0,
+     930.0,
+     1890.0,
+     1998.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0448": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     948.0,
+     864.0,
+     1776.0,
+     2046.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0449": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     972.0,
+     798.0,
+     1896.0,
+     2004.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0450": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     960.0,
+     816.0,
+     1920.0,
+     1962.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0451": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     996.0,
+     882.0,
+     1860.0,
+     2166.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0452": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     1116.0,
+     1020.0,
+     1968.0,
+     2166.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0453": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     804.0,
+     1008.0,
+     1740.0,
+     2094.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0454": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     1026.0,
+     1332.0,
+     2016.0,
+     2142.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0455": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     912.0,
+     912.0,
+     2034.0,
+     2142.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0456": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     966.0,
+     822.0,
+     1974.0,
+     1878.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0457": {
+  "W": 3024,
+  "H": 3024,
+  "label": "hippo",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     852.0,
+     522.0,
+     2220.0,
+     2154.0
+    ],
+    "source": "saturation-mask"
+   }
+  ]
+ },
+ "IMG_0458": {
+  "W": 3024,
+  "H": 3024,
+  "label": "battery",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     1215.1,
+     679.8,
+     1678.2,
+     1881.6
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0459": {
+  "W": 3024,
+  "H": 3024,
+  "label": "battery",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     1277.7,
+     613.2,
+     1718.0,
+     1771.6
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0460": {
+  "W": 3024,
+  "H": 3024,
+  "label": "battery",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     1269.1,
+     537.1,
+     1707.6,
+     1688.2
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0461": {
+  "W": 3024,
+  "H": 3024,
+  "label": "battery",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     1317.6,
+     1065.0,
+     1885.1,
+     1623.5
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0462": {
+  "W": 3024,
+  "H": 3024,
+  "label": "battery",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     1174.8,
+     673.7,
+     1751.7,
+     2075.0
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0463": {
+  "W": 3024,
+  "H": 3024,
+  "label": "battery",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     841.7,
+     468.8,
+     1631.7,
+     1814.1
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0464": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     528.6,
+     871.3,
+     4279.3,
+     3484.1
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0465": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     708.7,
+     1138.7,
+     4274.2,
+     3423.0
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0466": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     167.5,
+     932.2,
+     3883.9,
+     3043.5
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0467": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     466.2,
+     876.9,
+     3889.3,
+     3167.7
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0468": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     326.2,
+     487.9,
+     4158.6,
+     2571.1
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0469": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     939.8,
+     649.2,
+     3871.6,
+     3032.8
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0470": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     742.2,
+     507.3,
+     3456.7,
+     3153.1
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0471": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     336.5,
+     791.7,
+     4034.3,
+     3476.0
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0472": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     410.0,
+     678.6,
+     4080.5,
+     3259.3
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0473": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     728.1,
+     698.2,
+     4046.6,
+     2267.5
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0474": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     359.7,
+     613.5,
+     3460.5,
+     3106.0
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0475": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "studio",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     1014.8,
+     684.3,
+     3786.9,
+     2362.8
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0476": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     827.0,
+     1604.4,
+     3776.8,
+     3397.9
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0477": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     910.5,
+     1571.3,
+     3264.1,
+     3396.7
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0478": {
+  "W": 4284,
+  "H": 4284,
+  "label": "controller",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "controller",
+    "box": [
+     381.2,
+     316.2,
+     2191.1,
+     2304.2
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0479": {
+  "W": 4284,
+  "H": 4284,
+  "label": "penguin",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1724.0,
+     1709.8,
+     2345.4,
+     2676.8
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0480": {
+  "W": 4284,
+  "H": 4284,
+  "label": "penguin",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1765.2,
+     1698.0,
+     2236.7,
+     2608.6
+    ],
+    "source": "owlv2-alt-prompt"
+   }
+  ]
+ },
+ "IMG_0481": {
+  "W": 4284,
+  "H": 4284,
+  "label": "penguin",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1392.3,
+     1413.7,
+     1842.1,
+     2056.3
+    ],
+    "source": "manual"
+   }
+  ]
+ },
+ "IMG_0482": {
+  "W": 4284,
+  "H": 4284,
+  "label": "hippo",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     2017.9,
+     1992.7,
+     2685.2,
+     2642.1
+    ],
+    "source": "owlv2+puzzle-union"
+   }
+  ]
+ },
+ "IMG_0483": {
+  "W": 4284,
+  "H": 4284,
+  "label": "hippo",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     1702.4,
+     1689.7,
+     2139.4,
+     2391.1
+    ],
+    "source": "owlv2+puzzle-union"
+   }
+  ]
+ },
+ "IMG_0484": {
+  "W": 4284,
+  "H": 4284,
+  "label": "hippo",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     1862.1,
+     1755.9,
+     2366.5,
+     2428.9
+    ],
+    "source": "owlv2+puzzle-union"
+   }
+  ]
+ },
+ "IMG_0485": {
+  "W": 4284,
+  "H": 4284,
+  "label": "hippo",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "hippo",
+    "box": [
+     1621.6,
+     1891.2,
+     2090.8,
+     2308.9
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0486": {
+  "W": 4284,
+  "H": 4284,
+  "label": "battery",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     2233.6,
+     1991.9,
+     3064.6,
+     2274.3
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0487": {
+  "W": 4284,
+  "H": 4284,
+  "label": "battery",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     1856.5,
+     1611.1,
+     2612.9,
+     2082.1
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0488": {
+  "W": 4284,
+  "H": 4284,
+  "label": "battery",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "battery",
+    "box": [
+     2095.5,
+     1529.1,
+     2323.2,
+     2231.9
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0489": {
+  "W": 4284,
+  "H": 4284,
+  "label": "multi",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     245.4,
+     1111.3,
+     783.5,
+     1760.0
+    ],
+    "source": "owlv2"
+   },
+   {
+    "cls": "hippo",
+    "box": [
+     1723.2,
+     2126.0,
+     2104.1,
+     2535.3
+    ],
+    "source": "owlv2+puzzle-union"
+   },
+   {
+    "cls": "battery",
+    "box": [
+     1145.8,
+     1536.9,
+     1375.4,
+     2023.0
+    ],
+    "source": "owlv2"
+   },
+   {
+    "cls": "controller",
+    "box": [
+     2409.8,
+     1748.9,
+     4323.4,
+     3074.8
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0490": {
+  "W": 4284,
+  "H": 4284,
+  "label": "multi",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     493.4,
+     1551.3,
+     919.4,
+     2032.7
+    ],
+    "source": "owlv2"
+   },
+   {
+    "cls": "hippo",
+    "box": [
+     1761.5,
+     1546.3,
+     2149.6,
+     1934.0
+    ],
+    "source": "owlv2+puzzle-union"
+   },
+   {
+    "cls": "battery",
+    "box": [
+     1254.9,
+     1536.6,
+     1475.2,
+     2000.7
+    ],
+    "source": "owlv2"
+   },
+   {
+    "cls": "controller",
+    "box": [
+     2565.9,
+     1371.0,
+     4255.5,
+     2404.0
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0491": {
+  "W": 4284,
+  "H": 4284,
+  "label": "multi",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     2570.4,
+     2463.3,
+     3448.6,
+     3105.9
+    ],
+    "source": "manual"
+   },
+   {
+    "cls": "hippo",
+    "box": [
+     333.9,
+     1447.6,
+     967.8,
+     2024.6
+    ],
+    "source": "owlv2+puzzle-union"
+   },
+   {
+    "cls": "battery",
+    "box": [
+     823.2,
+     2092.4,
+     1288.7,
+     2708.6
+    ],
+    "source": "owlv2"
+   },
+   {
+    "cls": "controller",
+    "box": [
+     1551.5,
+     1000.4,
+     4247.1,
+     2869.8
+    ],
+    "source": "owlv2"
+   }
+  ]
+ },
+ "IMG_0492": {
+  "W": 4284,
+  "H": 4284,
+  "label": "multi",
+  "domain": "desk",
+  "boxes": [
+   {
+    "cls": "penguin",
+    "box": [
+     1713.6,
+     1199.5,
+     2206.3,
+     1799.3
+    ],
+    "source": "manual"
+   },
+   {
+    "cls": "hippo",
+    "box": [
+     1222.9,
+     1560.8,
+     1723.3,
+     2041.6
+    ],
+    "source": "owlv2+puzzle-union"
+   },
+   {
+    "cls": "battery",
+    "box": [
+     700.3,
+     1495.7,
+     1044.1,
+     2063.5
+    ],
+    "source": "owlv2"
+   },
+   {
+    "cls": "controller",
+    "box": [
+     2226.2,
+     1203.0,
+     4298.3,
+     2624.0
+    ],
+    "source": "owlv2"
+   }
+  ]
+ }
+}

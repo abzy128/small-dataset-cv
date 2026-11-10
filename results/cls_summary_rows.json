@@ -1,0 +1,194 @@
+[
+ [
+  "ResNet-50 (IN-1k) \u00b7 logreg",
+  0.9614545454545455,
+  0.23076923076923078,
+  "frozen"
+ ],
+ [
+  "ResNet-50 (IN-1k) \u00b7 knn1",
+  0.9389090909090909,
+  0.3076923076923077,
+  "frozen"
+ ],
+ [
+  "ResNet-50 (IN-1k) \u00b7 prototype",
+  0.8629090909090908,
+  0.6153846153846154,
+  "frozen"
+ ],
+ [
+  "EfficientNet-B0 (IN-1k) \u00b7 logreg",
+  0.9743636363636363,
+  0.8461538461538461,
+  "frozen"
+ ],
+ [
+  "EfficientNet-B0 (IN-1k) \u00b7 knn1",
+  0.9689090909090909,
+  0.6153846153846154,
+  "frozen"
+ ],
+ [
+  "EfficientNet-B0 (IN-1k) \u00b7 prototype",
+  0.9023636363636365,
+  0.6153846153846154,
+  "frozen"
+ ],
+ [
+  "ConvNeXt-T (IN-22k) \u00b7 logreg",
+  0.9854545454545455,
+  0.6153846153846154,
+  "frozen"
+ ],
+ [
+  "ConvNeXt-T (IN-22k) \u00b7 knn1",
+  0.9612727272727273,
+  0.6923076923076923,
+  "frozen"
+ ],
+ [
+  "ConvNeXt-T (IN-22k) \u00b7 prototype",
+  0.9721818181818181,
+  0.7692307692307693,
+  "frozen"
+ ],
+ [
+  "DINOv2 ViT-S/14 \u00b7 logreg",
+  0.9927272727272728,
+  0.5384615384615384,
+  "frozen"
+ ],
+ [
+  "DINOv2 ViT-S/14 \u00b7 knn1",
+  0.9445454545454547,
+  0.7692307692307693,
+  "frozen"
+ ],
+ [
+  "DINOv2 ViT-S/14 \u00b7 prototype",
+  0.9383636363636364,
+  0.8461538461538461,
+  "frozen"
+ ],
+ [
+  "DINOv2 ViT-B/14 \u00b7 logreg",
+  0.978,
+  0.5384615384615384,
+  "frozen"
+ ],
+ [
+  "DINOv2 ViT-B/14 \u00b7 knn1",
+  0.9610909090909091,
+  0.6153846153846154,
+  "frozen"
+ ],
+ [
+  "DINOv2 ViT-B/14 \u00b7 prototype",
+  0.9374545454545455,
+  0.6923076923076923,
+  "frozen"
+ ],
+ [
+  "CLIP ViT-B/16 \u00b7 logreg",
+  1.0,
+  0.6153846153846154,
+  "frozen"
+ ],
+ [
+  "CLIP ViT-B/16 \u00b7 knn1",
+  0.9963636363636365,
+  0.8461538461538461,
+  "frozen"
+ ],
+ [
+  "CLIP ViT-B/16 \u00b7 prototype",
+  0.9669090909090908,
+  0.8461538461538461,
+  "frozen"
+ ],
+ [
+  "SigLIP2 B/16 \u00b7 logreg",
+  1.0,
+  0.7692307692307693,
+  "frozen"
+ ],
+ [
+  "SigLIP2 B/16 \u00b7 knn1",
+  0.9981818181818182,
+  0.8461538461538461,
+  "frozen"
+ ],
+ [
+  "SigLIP2 B/16 \u00b7 prototype",
+  0.9356363636363636,
+  0.6153846153846154,
+  "frozen"
+ ],
+ [
+  "Colour histogram \u00b7 SVM",
+  0.8421818181818184,
+  0.23076923076923078,
+  "classical"
+ ],
+ [
+  "ResNet-18 fine-tuned",
+  0.9709090909090909,
+  0.23076923076923075,
+  "finetuned"
+ ],
+ [
+  "EfficientNet-B0 fine-tuned",
+  0.8418181818181818,
+  0.38461538461538464,
+  "finetuned"
+ ],
+ [
+  "ConvNeXt-T fine-tuned",
+  1.0,
+  0.6923076923076924,
+  "finetuned"
+ ],
+ [
+  "Small CNN from scratch",
+  0.9345454545454546,
+  0.17948717948717952,
+  "scratch"
+ ],
+ [
+  "ResNet-18 from scratch",
+  0.860909090909091,
+  0.23076923076923075,
+  "scratch"
+ ],
+ [
+  "CLIP zero-shot",
+  0.9259259259259259,
+  1.0,
+  "zeroshot"
+ ],
+ [
+  "SigLIP2 zero-shot",
+  0.8888888888888888,
+  0.6153846153846154,
+  "zeroshot"
+ ],
+ [
+  "clef-flash zero-shot (Workers AI)",
+  0.9814814814814815,
+  0.9230769230769231,
+  "zeroshot"
+ ],
+ [
+  "clef zero-shot (Workers AI)",
+  1.0,
+  1.0,
+  "zeroshot"
+ ],
+ [
+  "clef-omni zero-shot (Workers AI)",
+  0.9814814814814815,
+  0.9230769230769231,
+  "zeroshot"
+ ]
+]

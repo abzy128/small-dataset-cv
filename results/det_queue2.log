@@ -1,0 +1,8 @@
+>>> S1_yolo11s_cp S1_studio2desk yolo11s.pt 40 640 synth/images
+S1_yolo11s_cp: all mAP50=0.870 mAP50-95=0.721 | single 0.681 | multi 1.000 | 4195s
+>>> S1_yolo11n_k1 S1_studio2desk yolo11n.pt 400 640 list:train_k1.txt
+S1_yolo11n_k1: all mAP50=0.360 mAP50-95=0.260 | single 0.213 | multi 0.565 | 666s
+>>> S1_yolo11n_k2 S1_studio2desk yolo11n.pt 300 640 list:train_k2.txt
+S1_yolo11n_k2: all mAP50=0.484 mAP50-95=0.372 | single 0.269 | multi 0.715 | 401s
+>>> S1_yolo11n_k4 S1_studio2desk yolo11n.pt 200 640 list:train_k4.txt
+S1_yolo11n_k4: all mAP50=0.477 mAP50-95=0.338 | single 0.474 | multi 0.576 | 308s

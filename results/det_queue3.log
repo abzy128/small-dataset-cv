@@ -1,0 +1,20 @@
+>>> SEED=1 S1_yolo11n_seed1 S1_studio2desk yolo11n.pt 80 640
+S1_yolo11n_seed1: all mAP50=0.650 mAP50-95=0.454 | single 0.552 | multi 0.753 | 195s
+>>> SEED=1 S1_yolo11n_cp_seed1 S1_studio2desk yolo11n.pt 40 640 synth/images
+S1_yolo11n_cp_seed1: all mAP50=0.866 mAP50-95=0.722 | single 0.695 | multi 1.000 | 348s
+>>> SEED=2 S1_yolo11n_seed2 S1_studio2desk yolo11n.pt 80 640
+S1_yolo11n_seed2: all mAP50=0.418 mAP50-95=0.303 | single 0.230 | multi 0.604 | 160s
+>>> SEED=2 S1_yolo11n_cp_seed2 S1_studio2desk yolo11n.pt 40 640 synth/images
+S1_yolo11n_cp_seed2: all mAP50=0.838 mAP50-95=0.702 | single 0.623 | multi 1.000 | 340s
+>>> SEED=1 frcnn: S1_frcnn_seed1 S1_studio2desk 30 0
+S1_frcnn_seed1: all mAP50=0.877 mAP50-95=0.696 | single 0.777 | multi 1.000 | 282s
+>>> S1_yolo11n_scratch S1_studio2desk yolo11n.yaml 200 640
+S1_yolo11n_scratch: all mAP50=0.143 mAP50-95=0.062 | single 0.045 | multi 0.262 | 370s
+>>> S2_yolo11n_cp S2_mixed yolo11n.pt 40 640 synth/images
+S2_yolo11n_cp: all mAP50=0.991 mAP50-95=0.792 | single 0.875 | multi 1.000 | 349s
+>>> S1_yolo11n_960 S1_studio2desk yolo11n.pt 80 960
+S1_yolo11n_960: all mAP50=0.347 mAP50-95=0.242 | single 0.162 | multi 0.551 | 225s
+>>> S2_yolov8n S2_mixed yolov8n.pt 80 640
+S2_yolov8n: all mAP50=0.884 mAP50-95=0.655 | single 1.000 | multi 0.864 | 145s
+>>> S2_yolo11n_scratch S2_mixed yolo11n.yaml 200 640
+S2_yolo11n_scratch: all mAP50=0.485 mAP50-95=0.265 | single 0.897 | multi 0.455 | 403s

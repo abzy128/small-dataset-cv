@@ -1,0 +1,4 @@
+S1_yolo11s_cp S1_studio2desk yolo11s.pt 40 640 synth/images
+S1_yolo11n_k1 S1_studio2desk yolo11n.pt 400 640 list:train_k1.txt
+S1_yolo11n_k2 S1_studio2desk yolo11n.pt 300 640 list:train_k2.txt
+S1_yolo11n_k4 S1_studio2desk yolo11n.pt 200 640 list:train_k4.txt

@@ -1,0 +1,11 @@
+.cfaccount
+.cftoken
+.env
+.venv/
+__pycache__/
+data/raw/
+data/jpg_heif/
+data/yolo/
+runs/
+*.pt
+weights/

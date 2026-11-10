@@ -1,0 +1,3 @@
+S1_frcnn: all mAP50=0.939 mAP50-95=0.740 | single 0.846 | multi 1.000 | 543s
+S2_frcnn: all mAP50=1.000 mAP50-95=0.738 | single 1.000 | multi 1.000 | 649s
+S1_frcnn_cp: all mAP50=0.906 mAP50-95=0.712 | single 0.772 | multi 1.000 | 4492s

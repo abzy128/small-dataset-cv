@@ -1,0 +1,10 @@
+SEED=1 S1_yolo11n_seed1 S1_studio2desk yolo11n.pt 80 640
+SEED=1 S1_yolo11n_cp_seed1 S1_studio2desk yolo11n.pt 40 640 synth/images
+SEED=2 S1_yolo11n_seed2 S1_studio2desk yolo11n.pt 80 640
+SEED=2 S1_yolo11n_cp_seed2 S1_studio2desk yolo11n.pt 40 640 synth/images
+SEED=1 frcnn: S1_frcnn_seed1 S1_studio2desk 30 0
+S1_yolo11n_scratch S1_studio2desk yolo11n.yaml 200 640
+S2_yolo11n_cp S2_mixed yolo11n.pt 40 640 synth/images
+S1_yolo11n_960 S1_studio2desk yolo11n.pt 80 960
+S2_yolov8n S2_mixed yolov8n.pt 80 640
+S2_yolo11n_scratch S2_mixed yolo11n.yaml 200 640

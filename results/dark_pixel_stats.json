@@ -1,0 +1,21 @@
+{
+ "penguin": {
+  "mean": 0.0028710937500000004,
+  "frac_imgs_gt5pct": 0.0
+ },
+ "hippo": {
+  "mean": 0.008960774739583332,
+  "frac_imgs_gt5pct": 0.0
+ },
+ "battery": {
+  "mean": 0.021943359375,
+  "frac_imgs_gt5pct": 0.0
+ },
+ "controller": {
+  "mean": 0.022312825520833333,
+  "frac_imgs_gt5pct": 0.08333333333333333
+ },
+ "desk_test": {
+  "mean": 0.5049714543269231
+ }
+}

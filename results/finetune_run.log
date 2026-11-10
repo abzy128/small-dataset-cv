@@ -1,0 +1,2 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+efficientnet_b0_ft   cv=0.842±0.095 shift=0.385 [0.38461538461538464, 0.46153846153846156, 0.3076923076923077] (199s)
